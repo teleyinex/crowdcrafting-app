@@ -15,13 +15,11 @@ CACHE:
 /crowdcrafting-app/js/lib/bootstrap/tooltip.js
 /crowdcrafting-app/js/lib/bootstrap/transition.js
 /crowdcrafting-app/js/lib/bootstrap/typeahead.js
-/crowdcrafting-app/js/lib/d3.js
 /crowdcrafting-app/js/lib/install.js
 /crowdcrafting-app/js/lib/jquery.js
 /crowdcrafting-app/js/lib/modernizr-2.5.3.min.js
 /crowdcrafting-app/js/lib/package.json
 /crowdcrafting-app/js/lib/require.js
-/crowdcrafting-app/js/nonrequire/rickshaw.min.js
 /crowdcrafting-app/js/lib/x-tag.js
 /crowdcrafting-app/js/lib/x-tag/accordion.js
 /crowdcrafting-app/js/lib/x-tag/actionbar.js
