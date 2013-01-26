@@ -1,0 +1,20 @@
+{
+    "version": "0.1",
+    "name": "CrowdCrafting",
+    "description": "CrowdCrafting notifications for new apps",
+    "launch_path": "/crowdcrafting-app/",
+    "icons": {
+        "16":  "http://daniellombrana.es/crowdcrafting-app/img/icons/mortar-16.png",
+        "48":  "http://daniellombrana.es/crowdcrafting-app/img/icons/mortar-48.png",
+        "128": "http://daniellombrana.es/crowdcrafting-app/img/icons/mortar-128.png"
+    },
+    "developer": {
+        "name": "Daniel Lombraña González",
+        "url": "http://crowdcrafting.org"
+    },
+    "installs_allowed_from": [
+        "*"
+    ],
+    "appcache_path": "/crowdcrafting-app/crowdcrafting.appcache",
+    "default_locale": "en"
+}

@@ -1,0 +1,41 @@
+
+@import "defaults.css";
+
+/* Uncomment these to use Twitter Bootstrap */
+@import "bootstrap.css";
+@import "bootstrap-responsive.css";
+
+/* Your styles here */
+@import "opensans.css";
+@import "font-awesome.css";
+
+body {
+    background-image: url("../img/bg.png");
+    /*background: none repeat scroll 0% 0% rgb(139,191,54);*/
+
+}
+
+@font-face {
+    font-family: "Lobster";
+    src: url('font/Lobster.ttf');
+};
+
+.container {
+    padding: 10px;
+    font-family: 'Open Sans';
+}
+
+.card {
+    position: relative;
+    margin-top: 15px;
+    background: white;
+    border: 1px solid rgb(238, 238, 238);
+    padding: 10px;
+    -moz-box-shadow: 0 0 5px #888;
+    -webkit-box-shadow: 0 0 5px#888;
+    box-shadow: 0 0 5px #888;
+}
+
+.card h4 {
+    font-family: Lobster;
+}

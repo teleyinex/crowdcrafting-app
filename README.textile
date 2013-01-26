@@ -1,0 +1,6 @@
+h1. Crowdcrafting Web application for Mozilla Marketplace
+
+This is an awesome app that I'm working on. I will fill out this README soon.
+
+h2. License
+All the code from this application uses the GPLv3 license. See COPYING file.
